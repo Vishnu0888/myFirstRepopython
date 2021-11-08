@@ -1,0 +1,23 @@
+2021-11-01 11:38:48,777 : INFO : test_logging : This is information
+2021-11-01 11:38:48,777 : ERROR : test_logging : This is Error
+2021-11-01 11:38:48,778 : CRITICAL : test_logging : THis is critical
+2021-11-01 13:47:55,236 : INFO : LoggingPack.LogBase : Vishnu
+2021-11-01 13:47:55,236 : INFO : LoggingPack.LogBase : Mishra
+2021-11-01 13:51:24,657 : INFO : test_dataset : Vishnu
+2021-11-01 13:51:24,658 : INFO : test_dataset : Mishra
+2021-11-01 13:58:14,648 : INFO : test_dataset : Vishnu
+2021-11-01 13:58:14,648 : INFO : test_dataset : Mishra
+2021-11-01 13:59:11,882 : INFO : test_dataset : Vishnu
+2021-11-01 13:59:11,882 : INFO : test_dataset : Mishra
+2021-11-01 13:59:58,736 : INFO : test_dataset : Vishnu
+2021-11-01 13:59:58,736 : INFO : test_dataset : Mishra
+2021-11-01 14:00:51,294 : INFO : test_logging : This is information
+2021-11-01 14:00:51,294 : ERROR : test_logging : This is Error
+2021-11-01 14:00:51,294 : CRITICAL : test_logging : THis is critical
+2021-11-01 14:00:51,367 : INFO : test_dataset : Vishnu
+2021-11-01 14:00:51,368 : INFO : test_dataset : Mishra
+2021-11-01 14:01:36,531 : INFO : test_logging : This is information
+2021-11-01 14:01:36,531 : ERROR : test_logging : This is Error
+2021-11-01 14:01:36,531 : CRITICAL : test_logging : THis is critical
+2021-11-01 14:01:36,592 : INFO : test_dataset : Vishnu
+2021-11-01 14:01:36,592 : INFO : test_dataset : Mishra
